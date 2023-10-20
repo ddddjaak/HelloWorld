@@ -59,5 +59,6 @@ int main()
     girl1.girls();
     printf("Hello World !!\n");
     std::cout << "c++ code runner" << std::endl;
+    delete b;
     return 0;
 }
